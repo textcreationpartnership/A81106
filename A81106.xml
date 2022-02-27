@@ -1,0 +1,326 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ars nova natandi, or, New swimming girdles that will safely support a man from drowning, in any kind of water; with many other conveniencies. By Francis Cruys, gent.</title>
+            <author>Cruys, Francis.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81106</idno>
+            <idno type="STC">Wing C7447aA</idno>
+            <idno type="STC">ESTC R224846</idno>
+            <idno type="EEBO-CITATION">99899922</idno>
+            <idno type="PROQUEST">99899922</idno>
+            <idno type="VID">135707</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81106)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135707)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2479:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ars nova natandi, or, New swimming girdles that will safely support a man from drowning, in any kind of water; with many other conveniencies. By Francis Cruys, gent.</title>
+                  <author>Cruys, Francis.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Will. Bonny on the Back,</publisher>
+                  <pubPlace>Bristol :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>First leaf is blank.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Life preservers --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="handwritten_notice">
+            <pb facs="tcp:135707:1" rendition="simple:additions"/>
+            <p>
+               <add>These Girdles have been Experimen<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> in ſeverall Waters, at Portsmouth lately, &amp; at Bristoll publicly befor<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>Thouſands, by a Man weighing One Hundred &amp; half, Bound Hand &amp; foot.</add>
+            </p>
+            <p>
+               <add>Thoſe that are deſireous may ſee it tryd in the Thames at Highwater or any time, ten or twelve perſons for a Guinnea: giveing Norice beforehand to <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Davis at the Red Lyon Inn at Charing Croſs. Where further ſatisfaction may be ha<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </add>
+            </p>
+            <closer>
+               <add>Vivat Rex</add>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:135707:1" rendition="simple:additions"/>
+            <p>
+               <hi>Ars Nova Natandi,</hi> OR, New SWIMMING GIRDLES, <hi>That will ſafely ſupport a Man from</hi> DROWNING, In any kind of Water; with many other Conveniencies.</p>
+            <p>By FRANCIS CRUYS, Gent.</p>
+            <p>
+               <add>ſworn ſerv<hi rend="sup">t</hi> in Ord: to his Ma<hi rend="sup">ty.</hi>
+               </add>
+            </p>
+            <p>
+               <hi>BRISTOL,</hi> Printed by <hi>Will. Bonny</hi> on the <hi>Back,</hi> 1698.</p>
+         </div>
+         <div type="preface_to_the_reader">
+            <pb facs="tcp:135707:2"/>
+            <pb facs="tcp:135707:2"/>
+            <head>THE PREFACE.</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>THere's no Room for <hi>Harangues,</hi> and Long <hi>Speeches,</hi> in a Pre<g ref="char:EOLhyphen"/>lude to ſo ſman an <hi>Overture,</hi> as may be contain'd in leſs than a ſheet of Paper: Therefore I deſire you, diſpiſe nor condemn not the poor Advices of a True Frie<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, that has taken ſeveral Years pains, for the Preſervation at a time of need: If thy L<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fe be concern'd, or thy Calling be in that uſeful and good Servan<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, but worſt of
+<pb facs="tcp:135707:3"/>Maſters, the <hi>Water. I</hi> did it out of a Charitable Deſign, which <hi>I</hi> pray thee ſo accept; and not cenſure and ridicule a thing before thou Read'ſt or Underſtands it. It is from the beginning to the end thereof my own, without the help of any: and this the firſt <hi>I</hi> ever appear'd in Print in; Tho' <hi>I</hi> confeſs, theſe laſt Ten Years <hi>I</hi> have spent moſt time in Study and New Inventions, for the Publick Good; and as this gains Acceptance, ſhall proceed farther in ſeve<g ref="char:EOLhyphen"/>ral others, (too many and tedious here to Relate.) If thy Condition be Rich, the charge is little more than nought, if but in<g ref="char:EOLhyphen"/>different, tis not much, and if Mean or Poor, I'll ſhew thee a way that it ſhall be Imperceptable, or eaſy to be borne: To pur<g ref="char:EOLhyphen"/>chaſe the Deareſt GIRDLE, ſave but <hi>One Penny per Diem,</hi> out of thy com<g ref="char:EOLhyphen"/>mon Expences, and in about <hi>Fourteen</hi> Months 'twill be over, which may ſerve the<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb facs="tcp:135707:3"/>thy Term of Life, and perhaps thy Sons too; and for the Cheapeſt, <hi>One Half-pen<g ref="char:EOLhyphen"/>ny</hi> a Day for <hi>Nine</hi> Months will defroy it: And if thou makeſt out that thou art not able to do that, <hi>I</hi> will freely give thee, as thou art my Brother Chriſtian: <hi>I</hi> ſhall endea<g ref="char:EOLhyphen"/>vour to Anſwer the end of my <hi>Creation</hi> to my <hi>Neighbour,</hi> but muſt not forget my Duty to my <hi>Creator,</hi> and my Self. If 'tis accepted by the Ingenuous and Sober, <hi>I</hi> care not much what the contrary Parties ſay or think. If I am Encouraged, I will proceed and make <hi>Thouſands,</hi> but if none approve, I hope they will pardon me if I forbear: and if thoſe <hi>I</hi> herewith propoſe, will be taken, Directions for their true uſe ſhall he given with them, and will (God willing) Publiſh in the <hi>Gazzet</hi> where <hi>I</hi> may be ſpoken with in <hi>London</hi> next <hi>Spring:</hi> deſigning to diſperſe theſe on
+<pb facs="tcp:135707:4"/>the Sea Coaſts this <hi>Winter.</hi> Who am</p>
+            <closer>
+               <signed>Your Real Friend to ſerve you. FRANCIS CRUYS.</signed>
+               <dateline>
+                  <hi>Poun<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ley</hi> near <hi>Newent</hi> in <hi>Gloucester-ſhire,</hi> 
+                  <date>Octo<g ref="char:EOLhyphen"/>ber, 2<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>th. 1697.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="description_of_life_preservers">
+            <pb n="9" facs="tcp:135707:4"/>
+            <head>
+               <hi>ARS NOVA NATANDI,</hi> OR New SWIMMING GIRDLES.</head>
+            <head>That will ſafely ſupport a Man from Drowning, in any kind of Water, with many other Conveniences, <hi>&amp;c.</hi>
+            </head>
+            <p>OF Two ſorts. The one an <hi>Airy Tube,</hi> fil<g ref="char:EOLhyphen"/>led with the Man's Breath in a moment, and Equipt as ſoon; (which if time ſhould be wanting) if 'twere on empty, and the Man <hi>Twenty fathoms</hi> or <hi>deeper,</hi> one puff will bring him up ſafely on the ſurface of the Water, to do any reaſonable thing for his <hi>Preſer<g ref="char:EOLhyphen"/>vation;</hi> weighing near <hi>three pounds<g ref="char:punc">▪</g>
+               </hi> and made ſo portable, that 'twill go in a <hi>Coat Pocket,</hi> or if put on under a <hi>Surtoot Coat<g ref="char:punc">▪</g>
+               </hi> cannot be diſcovered. The other, ſtufft with above <hi>Ten thouſand Particles;</hi> nor ſubject to any Accident; that does as well or bet<g ref="char:EOLhyphen"/>ter than the other, except its bulk: But in a <hi>Ship</hi> or <hi>Boat</hi> will take up little room, intended to ly under the <hi>Pillow</hi> of the <hi>Hammocks,</hi> and with either, a <hi>Sailor</hi> may act his labour in a Storm without hinderance.</p>
+            <p>
+               <pb n="10" facs="tcp:135707:5"/>
+The Benefit of theſe, are not only to thoſe that uſe the <hi>Seas,</hi> but to thoſe who are occupied in <hi>Rivers, Lakes,</hi> &amp;c. As alſo for <hi>Paſſangers</hi> over broad <hi>Ferrys,</hi> and Arms of the <hi>Sea,</hi> where ſometimes (without a <hi>Mira<g ref="char:EOLhyphen"/>cle</hi>) many periſh with a ſudden blaſt of wind. Like<g ref="char:EOLhyphen"/>wiſe for thoſe that muſt travail when <hi>Rivers</hi> are <hi>over<g ref="char:EOLhyphen"/>flown;</hi> with which a Man may not only ſave his own Life, but his <hi>Horſes</hi> too, without looſing time. Laſtly, For the Inſtructing <hi>Youth</hi> in the moſt uſeful <hi>Art</hi> of <hi>Swimming;</hi> and for <hi>Gentlemen,</hi> Others, and <hi>Ladies</hi> too (if they pleaſe) in hot weather for <hi>Bathing,</hi> and <hi>Cooling.</hi> And either ſort laſting many years, (if not abuſed.) Moreover, if any ſmall accident ſhould happen, they ſhall be repaired for the firſt time <hi>gra<g ref="char:EOLhyphen"/>tis;</hi> and afterwards at Reaſonable Rates, by the <hi>Pro<g ref="char:EOLhyphen"/>jector</hi> or his <hi>Aſſigns.</hi>
+            </p>
+            <p>Who by five or ſix years <hi>Study</hi> and <hi>Practice,</hi> has perfected them, and will expoſe them to the <hi>World</hi> for the benefit of <hi>Mankind;</hi> and by his often amend<g ref="char:EOLhyphen"/>ments has made them ſo <hi>Cheap,</hi> that the deareſt will be afforded for a <hi>Guinea</hi> and half, and the cheapeſt at half a <hi>Guinea:</hi> And for his firſt Eſſay, will make a Lottery of 1600 <hi>Lo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> for 1600 <hi>Guineas,</hi> all <hi>Prizes</hi> (and not one <hi>Blank.</hi>) without <hi>Dec<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>it</hi> or <hi>Cheat,</hi> getting nothing by the <hi>Lottery,</hi> only the Sale of his <hi>Girdles.</hi>
+            </p>
+            <p>
+               <pb n="11" facs="tcp:135707:5"/>
+               <table>
+                  <row>
+                     <cell role="label" cols="2"> </cell>
+                     <cell role="label">Guineas.</cell>
+                  </row>
+                  <row>
+                     <cell>One, the greateſt Lot</cell>
+                     <cell>50 Guineas.</cell>
+                     <cell>50.</cell>
+                  </row>
+                  <row>
+                     <cell>2 Lots at</cell>
+                     <cell>25</cell>
+                     <cell>50.</cell>
+                  </row>
+                  <row>
+                     <cell>4 Lots at</cell>
+                     <cell>12½</cell>
+                     <cell>50.</cell>
+                  </row>
+                  <row>
+                     <cell>8 Lots at</cell>
+                     <cell>¼</cell>
+                     <cell>50.</cell>
+                  </row>
+                  <row>
+                     <cell>21 Lots at</cell>
+                     <cell>3</cell>
+                     <cell>63.</cell>
+                  </row>
+                  <row>
+                     <cell>312 Lots at</cell>
+                     <cell>1½</cell>
+                     <cell>468.</cell>
+                  </row>
+                  <row>
+                     <cell>486 Lots at</cell>
+                     <cell>1</cell>
+                     <cell>486.</cell>
+                  </row>
+                  <row>
+                     <cell>766 Lots at</cell>
+                     <cell>half a <hi>Guinea</hi>
+                     </cell>
+                     <cell>383.</cell>
+                  </row>
+                  <row>
+                     <cell role="total">Lots 1600</cell>
+                     <cell role="total"> </cell>
+                     <cell role="total">Guineas 1600.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>He gains only by the laſt<g ref="char:punc">▪</g> Saves by the laſt ſave one, and looſes by all the reſt, yet equally Balanc'd.</p>
+            <p>Thoſe <hi>Noblemen, Ladies, Gentlemen</hi> and <hi>Others,</hi> that will pleaſe to encourage<g ref="char:punc">▪</g> Charitable an Action, (that will ſet many Poor people at work; and by making theſe gain a good livelyhood;) may adven<g ref="char:EOLhyphen"/>ture what they plea<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> till 'tis full: But in caſe the <hi>Subſcriptions</hi> amount not to the aforeſaid Sum, the <hi>Girdles</hi> only Subſcribed for can be expected, and not the Advantage of <hi>Lottery,</hi> for its equal to the <hi>Proje<g ref="char:EOLhyphen"/>ctor Lottery</hi> or not. He can give ſufficient ſatisfa<g ref="char:EOLhyphen"/>ction to any Perſon concern'd of himſelf, and cir<g ref="char:EOLhyphen"/>cumſtances in the World.</p>
+            <p>What <hi>Tickets</hi> ſoever any Perſon Subſcribes for, He or She, muſt lay down at the Subſcribing <hi>One Third part;</hi> The <hi>Second Third part,</hi> at his Office in <hi>London,</hi> after the <hi>Subſcribers</hi> have <hi>One</hi> Months Notice in either <hi>Let<g ref="char:EOLhyphen"/>ters</hi> or the <hi>Gazet,</hi> and who ever pays not in to the <hi>Projector</hi> or his <hi>Aſſigns</hi> in <hi>Fourteen</hi> days over and a<g ref="char:EOLhyphen"/>bove
+<pb n="12" facs="tcp:135707:6"/>the ſaid Month before-mention'd, Forfeits their <hi>Firſt Third part</hi> in hand paid; the <hi>Laſt Third part</hi> after the Lottery is drawn, and at the delivery of the <hi>Girdles.</hi>
+            </p>
+            <p>Thoſe Perſons that ſhall draw the great <hi>PRIZES,</hi> and ſhall think them too many for their own uſe, or their Friends, to give to poor Seamen, ſhall (if they pleaſe) have an Allowance in the <hi>Patent</hi> to the Value of their Lots, if the whole <hi>Project</hi> may be Eſteemed and Computed, at ſuch a Rate as may be agreeable to both Parties, <hi>Projector</hi> and <hi>Subſcribers,</hi> if they'll be pleaſed to truſt to the <hi>Projector</hi>'s Care and Honeſty: who will at any ſeaſonable time give ſa<g ref="char:EOLhyphen"/>tisfaction to any Perſon willing to be concern'd.</p>
+            <p>Who ever Adventures but <hi>One Guinea</hi> may have the greateſt Lot; but if the worſt of Fortune hap<g ref="char:EOLhyphen"/>pens; he will have a <hi>Girdle</hi> of half a <hi>Guinea,</hi> and if that is diſlik't, for a <hi>Guinea</hi> more may have one of the deareſt ſort; and the loſs can be but half a <hi>Guinea.</hi>
+            </p>
+            <p>But thoſe that are willing to Adventure no more than one ſingle <hi>Guinea,</hi> are deſired to pay it at <hi>Sub<g ref="char:EOLhyphen"/>ſcribing,</hi> to avoid trouble and charge on both ſides.</p>
+            <p>Thoſe <hi>Cities, Corporations,</hi> or <hi>Fraternities,</hi> that give Encouragement, ſhall have Allowance for their Poor that uſe the Seas, from the <hi>Projector,</hi> according to the value and number they take off; of the Tenth Part of the Profit of them.</p>
+            <p>For what Sums the <hi>Projector</hi> or his <hi>Aſſigns</hi> ſhall re<g ref="char:EOLhyphen"/>ceive, ſatisfactory Acquitances ſhall be given as occa<g ref="char:EOLhyphen"/>ſion ſhall require.</p>
+            <p>With every <hi>Girdle</hi> a ſmall <hi>Volume,</hi> but an Excel<g ref="char:EOLhyphen"/>lent Pious Book, called. <hi>The Chriſtian Monitor,</hi> with a Plain and Honeſt <hi>Sermon,</hi> affixt on this Text, <hi>Vigi<g ref="char:EOLhyphen"/>late &amp; Orate,</hi> ſhall be preſented <hi>Gratis</hi> by the <hi>Projector.</hi>
+            </p>
+         </div>
+         <div type="subscription_agreement">
+            <pb n="13" facs="tcp:135707:6"/>
+            <head>A Copy of the Inſtrument for Subſcrip-tions.</head>
+            <p>WE whoſe Hands are hereunto under written, Do Covenant, Bargain, Con<g ref="char:EOLhyphen"/>tract and Agree to and with <hi>FRAN<g ref="char:EOLhyphen"/>CIS CR<g ref="char:V">Ʋ</g>YS,</hi> of <hi>White-Hall,</hi> Gent. That for as much as he the ſaid <hi>FRANCIS CR<g ref="char:V">Ʋ</g>YS</hi> Intends in as little time as conveniently he can paſs a <hi>Patent</hi> under the Broad Seal of <hi>England;</hi> for his <hi>New Invented SWIMMING GIRDLES,</hi> ſoley to the uſe of him the ſaid <hi>F. C.</hi> or his <hi>Aſſigns,</hi> for 14 Years, by Virtue of a <hi>Statute</hi> made for that Pur<g ref="char:EOLhyphen"/>poſe, <hi>&amp;c.</hi> and making a <hi>LOTTERY</hi> of 1600 Lots, for 1600 <hi>Guineas,</hi> all <hi>PRIZES,</hi> according to the afo<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>'d <hi>Page</hi> 11. <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>at 50 <hi>Guineas</hi> Value in <hi>Gir<g ref="char:EOLhyphen"/>dles,</hi> 2 at 25 <hi>Guineas</hi> value in <hi>Girdles,</hi> &amp;c. which ſhall be made as ſoon as w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th good ſpeed they can be conveniently: We will pay him at our ſeveral Subſcribing <hi>One Third part</hi> in Hand as <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>neſt or Con<g ref="char:EOLhyphen"/>tract-Money, for the ſeveral Lots we underwrite; and the <hi>Second Third part</hi> at ſuch Place or Places he ſhall du<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, after we have account <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ven us by Let<g ref="char:EOLhyphen"/>ters, or Publication in the <hi>Gazet, <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oy-Boy,</hi> &amp;c. of the Time and Place or Places for the Receipt thereof, or within One Months time <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> fourteen Days over and above ſuch Adviſe or Publication: And that in caſe we fail of our Second Payment of our ſeveral <hi>Second Third parts</hi> to him, as aforeſaid, we Allow and Agree that the <hi>Firſt, Third part</hi> ſhall be Forfeited to him the ſaid <hi>F. C.</hi> his <hi>Executors, Adminiſtrators,</hi> or <hi>Aſſigns,</hi> as his <hi>Proemium.</hi>
+            </p>
+            <p>
+               <pb n="14" facs="tcp:135707:7"/>
+And alſo that our <hi>Laſt Third part</hi> ſhall be paid in like manner, within Three Days after the Lottery is drawn, and on the receiving our <hi>Girdles,</hi> excepting only thoſe that Adventure but One ſingle <hi>Guinea.</hi> And the ſaid <hi>F. C.</hi> does hereby further Agree to and with the ſeveral <hi>Subſcribers,</hi> that he the ſaid <hi>F. C.</hi> ſhall make and deliver to all the ſaid <hi>Subſcribers</hi> the Number of <hi>Girdles</hi> ſtated as above, if the full num<g ref="char:EOLhyphen"/>ber of the Lottery is Subſcribed for: but if not full, no Advantage of Lottery, but to the Value of <hi>Gui<g ref="char:EOLhyphen"/>neas</hi> Subſcribed, firm, ſubſtantial, and good for uſe, with all convenient ſpeed, without Fraud or Coven: And does further Agree and Covenant to and with the ſaid <hi>Subſcribers,</hi> that if any ſmall acci<g ref="char:EOLhyphen"/>dent ſhould happen, that any of thoſe <hi>Girdles</hi> deli<g ref="char:EOLhyphen"/>ver'd by him in Lots ſhould be damag'd (uſing his Directions) they ſhall be amended and made uſeful (if repairable) for the Fir<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> time <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and for the future at Reaſonable Rate<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, by him the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>and <hi>F. C.</hi> or his <hi>Aſſigns.</hi> Moreover that if any Perſon or Perſons concern'd ſhall diſlike their ſorts of <hi>Girdles</hi> as they are Lotted, they ſhall freely exchange the Dearer for the Cheaper, or the Cheaper for the Dearer, without any allowance of Loſs, Three of the Cheaper for One of the Dearer, or One of the Dearer for Three of the Cheaper, as ſoon as they can be conveniently made. leaving their <hi>Girdles</hi> unuſed. And laſtly the ſaid <hi>F. C.</hi> voluntarily Engages, that <hi>One-Tenth part</hi> of the clear profit that ſhall ariſe to him by theſe <hi>Girdles,</hi> as near as he can poſſible compute, ſhall be diſpoſed of in Prous and Charitable uſes.</p>
+            <p>
+               <pb n="15" facs="tcp:135707:7"/>
+The Appartenances to the <hi>GIRDLE</hi> are an Atten<g ref="char:EOLhyphen"/>dant to carry all Neceſſaries dry, and to be had at pleaſure, and may be made to contain, half a Hun<g ref="char:EOLhyphen"/>dred weight, more or leſs, following the Man, and when occaſion requires its uſe is to be laſht on the Starbord-ſide of the Man. and when its preſent uſe is over, to follow as it did: Any quantity of Li<g ref="char:EOLhyphen"/>quors may be tack't to it without, in Wooden Bot<g ref="char:EOLhyphen"/>tels, without Prejudice.</p>
+            <p>A Pillow, exceeding light, to ſupporr the Head, and to keep the Neck from Akeing if a Man ſhould lye long on his back.</p>
+            <p>Light Oars for the Hands to make way; very convenient.</p>
+            <p>A ſmall Horn light and Cheap, to give Notice to a Veſſel, much further than a Man's Voyce.</p>
+            <p>Some of theſe needleſs in a Fleet, or in Company of others, but highly <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſeful and convenient in a ſingle Ship: and of ſma<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Charge.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="postscript">
+            <pb n="16" facs="tcp:135707:8" rendition="simple:additions"/>
+            <head>Poſtſcript.</head>
+            <p>THoſe that are not willing to Adventure in <hi>Lottery,</hi> may be Furniſht with <hi>Girdles</hi> at a Certainty, paying One third part at Sub<g ref="char:EOLhyphen"/>ſcribing, and the reſt as aforeſaid; and <hi>Subſcriptions</hi> will be taken by Mr. <hi>William Jordan,</hi> at the <hi>Talbot</hi> in <hi>Worceſter.</hi> Mr. <hi>William Roberts,</hi> at the <hi>Swan</hi> in <hi>Tewksbury.</hi> Mr. <hi>Richard Coſnet,</hi> at the <hi>Bell</hi> in <hi>Glou<g ref="char:EOLhyphen"/>ceſter.</hi> Mr. <hi>John Morgan,</hi> at the <hi>White-Hart,</hi> and Mr. <hi>John Olave,</hi> at the <hi>Nags-head</hi> in <hi>Briſtol.</hi> and in moſt <hi>Cities</hi> and <hi>Sea-Port Towns,</hi> as ſoon as Time and Opportunity will permit. The <hi>Projector</hi> may be ſpoken with in <hi>Tendon,</hi> at <hi>Garway</hi>'s Coffee-Houſe, or on the <hi>Royal Exchange,</hi> in the <hi>Turkey Walk.</hi> near the North-weſt Corner.</p>
+            <pb facs="tcp:135707:8"/>
+            <pb facs="tcp:135707:9"/>
+            <pb facs="tcp:135707:9" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
